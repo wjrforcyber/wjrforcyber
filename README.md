@@ -1,5 +1,4 @@
-![Metrics](https://github.com/wjrforcyber/wjrforcyber/blob/main/github-metrics.svg)
-![](https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126.gif)
+![Metrics](https://github.com/wjrforcyber/wjrforcyber/blob/main/github-metrics.svg)<img src="https://64.media.tumblr.com/39ff641cf87dca9cb5064b5407037b7c/tumblr_o26n0mMtx91v1kxyno1_500.gifv" alt="" width="475"/>
 
 
 [![](https://img.shields.io/badge/-Python-007396?style=plastic&logo=python&logoColor=ffffff)](https://www.python.org/)
