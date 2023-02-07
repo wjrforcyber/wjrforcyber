@@ -7,13 +7,6 @@
 [![](https://img.shields.io/badge/-Haskell-007396?style=plastic&logo=haskell&logoColor=ffffff)](https://www.haskell.org/)
 
 
-[![](https://img.shields.io/badge/iphone-11-000000?style=plastic&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/Win-10-000000?style=plastic&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-gb/windows)
-[![](https://img.shields.io/badge/Bose-SoundSport-000000?style=plastic&logo=bose&logoColor=ffffff)](https://www.bose.co.uk/en_gb/index.html)
-[![](https://img.shields.io/badge/Bose-QC35II-000000?style=plastic&logo=bose&logoColor=ffffff)](https://www.bose.co.uk/en_gb/index.html)
-
-
-
 
 ![](https://img.shields.io/badge/Coffee-663333?style=plastic&logo=buymeacoffee&logoColor=ffffff)
 
